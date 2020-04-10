@@ -53,7 +53,7 @@ class LTPLE_App_Google {
 		$this->settings = new LTPLE_App_Google_Settings( $this->parent );
 		
 		$this->admin = new LTPLE_App_Google_Admin_API( $this );
-
+		
 		if ( !is_admin() ) {
 
 			// Load API for generic admin functions
