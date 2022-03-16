@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Live Template Editor App Google
- * Version: 1.0
+ * Version: 1.0.0.2
  * Plugin URI: https://github.com/rafasashi
  * Description: Google.com API integrator for Live Template Editor.
  * Author: Rafasashi

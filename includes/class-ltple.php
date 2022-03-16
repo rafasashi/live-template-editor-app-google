@@ -2,7 +2,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-class LTPLE_App_Google {
+class LTPLE_App_Google extends LTPLE_Client_App {
 
 	/**
 	 * The single instance of LTPLE_App_Google.
